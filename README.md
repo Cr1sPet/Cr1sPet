@@ -1,6 +1,6 @@
 ### Hi everyone 👋 
-
-#### 👀 I currently study at School 21 and learning C
+#### I'm interested in **Java**
+#### 👀 I currently study at School 21 and learning **C**
 
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jchopped)
 
