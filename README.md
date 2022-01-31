@@ -1,5 +1,6 @@
-### Hi there 👋 
-### ⚡ I’m currently learning at School 21
+### Hi everyone 👋 
+
+# 👀 I currently study at School 21 and learning C
 
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jchopped)
 
