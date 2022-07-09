@@ -1,6 +1,6 @@
 ### Hi everyone 👋 
 * 👀 I'm interested in **Java**
-* 🍀 I currently study at **School 21** and learning **C**
+* 🍀 I currently study at **School 21** and learning **C** and **C++**
 
 
 <h3 align="left">Languages and Tools:</h3>
