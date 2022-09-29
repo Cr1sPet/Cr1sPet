@@ -10,4 +10,4 @@
 
 <h3 align="left">Leetcode stats:</h3>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/CrsPet?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/CrsPet)
