@@ -16,5 +16,3 @@
 <h3 align="left">Leetcode stats:</h3>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/CrsPet)
-
-![](https://komarev.com/ghpvc/?username=CrsPet)
