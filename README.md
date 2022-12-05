@@ -1,10 +1,12 @@
 ## Hi everyone 👋 
 
-* 👀 I'm interested in **Java** and **Spring framework**
-* 🍀 I currently study at **School 21** and learning programming using **C** and **C++** languages
+* 👀 I'm interested in backend development
+* 🍀 I study at **School 21** programmin school
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
