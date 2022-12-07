@@ -1,7 +1,7 @@
 ## Hi everyone 👋 
 
 * 👀 I'm interested in backend development
-* 🍀 I study at **School 21** programmin school
+* 🍀 I study at **School 21** programming school
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
